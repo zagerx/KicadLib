@@ -17,11 +17,14 @@
 - 从立创EDA导入库
 
 
-## 3D模型的获取
+## 库的获取
 
 |网站|用户名|密码|网址|注意事项|
 |-|-|-|-|-|
-|traceparts|1252496768@qq.com|a1324.|[traceparts](https://www.traceparts.cn/zh/)||
+|traceparts(3D模型)|1252496768@qq.com|a1324.|[traceparts](https://www.traceparts.cn/zh/)||
+|Kicad工程获取|-|-|-|-|
+
+
 ## 插件的安装
     参考链接:`https://mp.weixin.qq.com/s/uhDpBiPf1qUxG-Ta1UosKg`
 ## 快捷键/用户自定义设置
