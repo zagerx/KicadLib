@@ -16,12 +16,16 @@
     - 自定义路径即可
 - 从立创EDA/AD导入库
 
+- 官方库介绍
+[玩转 KiCad 元器件库！]`https://mp.weixin.qq.com/s/lFM7ZaMu_czCBVFxXZxhlQ`
 
 ## 库的获取
 
 |网站|用户名|密码|网址|注意事项|
 |-|-|-|-|-|
 |traceparts(3D模型)|1252496768@qq.com|a1324.|[traceparts](https://www.traceparts.cn/zh/)||
+|-|同上|同上|[3D模型](https://www.3dcontentcentral.com/Default.aspx)|网速较慢|
+|迪威模型|微信||[迪威模型](https://www.3dwhere.com/)||
 |Kicad工程获取|-|-|-|-|
 
 ### kicad获取库的方法
