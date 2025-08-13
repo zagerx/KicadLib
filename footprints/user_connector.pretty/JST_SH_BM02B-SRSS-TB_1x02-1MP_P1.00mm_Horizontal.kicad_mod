@@ -170,7 +170,7 @@
 		(uuid "f5f001cb-1243-410e-b078-86a5d598a3d2")
 	)
 	(embedded_fonts no)
-	(model "/home/zhangge/worknote/MoDriverResP/HardWare/KicadLib/3dmodels/JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal.step"
+	(model "${KICAD_USER_3DLIB_DIR}/JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal.step"
 		(offset
 			(xyz 0 0 0)
 		)
