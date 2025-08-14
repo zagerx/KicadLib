@@ -4523,6 +4523,8 @@
 					(type none)
 				)
 			)
+		)
+		(symbol "XT30PW-M_1_0"
 			(pin power_in line
 				(at 12.7 -2.54 180)
 				(length 5.08)
@@ -4533,7 +4535,7 @@
 						)
 					)
 				)
-				(number "P"
+				(number "1"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -4551,7 +4553,7 @@
 						)
 					)
 				)
-				(number "N"
+				(number "2"
 					(effects
 						(font
 							(size 1.016 1.016)
